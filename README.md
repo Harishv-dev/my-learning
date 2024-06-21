@@ -1,2 +1,2 @@
 # my-learning
-This is my learning git section. ADD and COMMIT need to work on.
+This is my learning git section. <br /> ADD and COMMIT need to work on.
